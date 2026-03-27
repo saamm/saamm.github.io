@@ -145,6 +145,11 @@ text-decoration:none;
 .pub-button:hover{
 background:#2a5f9e;
 }
+
+.project-links {
+  margin-top:10px;
+}
+
 /* PROJECTS */
 
 .project{
